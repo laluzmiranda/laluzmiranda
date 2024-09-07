@@ -1,1 +1,2 @@
-- 👋 Hola! soy Miranda
+👋 Hola! soy Miranda
+Estudiante de Ingenieria Informatica
