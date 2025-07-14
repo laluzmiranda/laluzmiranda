@@ -2,7 +2,6 @@
 
 <p align="center">
   Soy Miranda, estudiante de Ingeniería en Informática en la Universidad de Buenos Aires 🇦🇷.<br>
-  Apasionada por el desarrollo backend 💻.
 </p>
 
 ---
