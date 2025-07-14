@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Proyectos destacaods
+## 🚀 Proyectos destacados
 - 🐤🎮 [tp-taller-2024c2-grupo1](https://github.com/MrMorbello/tp-taller-2024c2-grupo1) - Desarrollo del videojuego Duck Game
 
 ---
